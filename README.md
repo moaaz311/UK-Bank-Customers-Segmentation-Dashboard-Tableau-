@@ -71,3 +71,5 @@ Design improvements include:
 ## 📂 Dataset
 
 Dataset used in this project:
+
+![Dashboard](UK-Bank-Customers.csv)
